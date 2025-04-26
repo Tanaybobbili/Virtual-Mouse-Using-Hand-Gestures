@@ -63,5 +63,6 @@ Contributors
 
 👨‍💻 Bobbili Hanuma Tanay
 👨‍💻 Indana Narsarao
+👨‍💻 Vanaparthi Purna chand
 
 ⭐ If you like this project, give it a star! 🌟
